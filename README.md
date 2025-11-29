@@ -26,5 +26,8 @@ A desktop-based fantasy cricket system developed using Python and Qt for team cr
 - main.py : main program file
 - create_db.py : database creation script
 - fantasy_cricket.ui : Qt design file
+
+pip install -r requirements.txt
+
 - fantasy_cricket.db : project database
 - Screenshots/ : UI and workflow images
